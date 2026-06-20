@@ -1,56 +1,85 @@
-<h1 align="center">Hi 👋, I'm Jainam </h1>
-<!--- snake-->
+<!-- HEADER -->
 <div align="center">
-  <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"
-       alt="snake" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jainam%20Thakkar&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Next.js&descSize=18&descAlignY=60" width="100%" />
 </div>
-<h3 align="center">A passionate backend developer from India</h3>
-<img align="right" width="50%" height="150px"  style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainamthakkar&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
 
+<!-- TYPING BANNER -->
+<div align="center">
+  <a href="https://github.com/jainamthakkar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+multi-tenant+SaaS+platforms;.NET+10+%2B+C%23+on+the+backend;Next.js+15+%2B+React+19+on+the+front;Clean+Architecture+%7C+CQRS+%7C+PostgreSQL" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainamthakkar-sp&label=Profile%20views&color=0e75b6&style=flat" alt="jainamthakkar" /> </p>
+<!-- BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jainamthakkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/jainam-thakkar-845245183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/jainam_thakkar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/jainamthakkar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:jainamthakkar111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
-- 🔭 I’m currently making projects on **SpringBoot**
+<br/>
 
-- 🌱 I’m currently learning **Spring,Hibernate,Mysql, RestAPI**
+<!-- ABOUT -->
+### 🧑‍💻 About Me
 
-- 💬 Ask me about **Java-DSA, Spring, API**
+```typescript
+const jainam = {
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
+  backend: ["C#", ".NET 10", "ASP.NET Core", "Java", "Spring"],
+  frontend: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS"],
+  database: ["PostgreSQL", "MySQL"],
+  architecture: ["Clean Architecture", "CQRS", "REST APIs"],
+  currentlyBuilding: "a multi-tenant SaaS CRM & booking platform",
+  openTo: "interesting collaborations",
+};
+```
 
-- 📫 How to reach me **jainamthakkar111@gmail.com**
+<br/>
 
-- ⚡ Open for collaborating on projects
+<!-- TECH STACK -->
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,nextjs,tailwind,postgres,mysql,git,postman,html,css,vscode,docker&theme=dark" alt="tech stack" />
+</div>
 
-<a href="https://twitter.com/jainam_thakkar">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/jainam-thakkar-845245183/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="linkedin" title="linkedin" width="40" height="40"/>
-</a>
-<a href="https://instagram.com/jainamthakkar">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="40" height="40"/>
-</a>
+<br/>
 
-</p>
+<!-- STATS -->
+### 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jainamthakkar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainamthakkar&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jainamthakkar&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- </p>
+<!-- TROPHIES -->
+### 🏆 Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jainamthakkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainamthakkar&show_icons=true&locale=en" alt="jainamthakkar" /></p>
+<!-- ACTIVITY GRAPH -->
+### 📈 Contribution Graph
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainamthakkar&" alt="jainamthakkar" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jainamthakkar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+</div>
+
+<!-- SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jainamthakkar/jainamthakkar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
