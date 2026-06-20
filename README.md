@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jainam%20Thakkar&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Next.js&descSize=18&descAlignY=60" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Jainam Thakkar — Full-Stack Developer | .NET & Next.js" />
 </div>
 
 <!-- TYPING BANNER -->
@@ -12,7 +12,7 @@
 
 <!-- BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jainamthakkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jainamthakkar-sp&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/jainam-thakkar-845245183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/jainam_thakkar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/jainamthakkar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -43,7 +43,7 @@ const jainam = {
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,nextjs,tailwind,postgres,mysql,git,postman,html,css,vscode,docker&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,nextjs,tailwind,postgres,mysql,git,postman,html,css,vscode,docker&theme=dark&perline=9" alt="tech stack" />
 </div>
 
 <br/>
@@ -60,13 +60,6 @@ const jainam = {
   <img src="https://streak-stats.demolab.com/?user=jainamthakkar&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-<!-- TROPHIES -->
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jainamthakkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</div>
-
 <!-- ACTIVITY GRAPH -->
 ### 📈 Contribution Graph
 
@@ -81,5 +74,5 @@ const jainam = {
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
