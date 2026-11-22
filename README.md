@@ -14,8 +14,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jainamthakkar-sp&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/jainam-thakkar-845245183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/jainam_thakkar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/jainamthakkar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:jainamthakkar111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
